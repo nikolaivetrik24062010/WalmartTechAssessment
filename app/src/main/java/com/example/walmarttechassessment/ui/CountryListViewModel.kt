@@ -2,8 +2,8 @@ package com.example.walmarttechassessment.ui
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.walmarttechassessment.data.Country
-import com.example.walmarttechassessment.data.CountryRepository
+import com.example.walmarttechassessment.data.model.Country
+import com.example.walmarttechassessment.data.repository.CountryRepository
 import com.example.walmarttechassessment.utils.Resource
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

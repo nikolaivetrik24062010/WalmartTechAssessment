@@ -1,5 +1,7 @@
-package com.example.walmarttechassessment.data
+package com.example.walmarttechassessment.data.repository
 
+import com.example.walmarttechassessment.data.model.Country
+import com.example.walmarttechassessment.data.network.RetrofitInstance
 import com.example.walmarttechassessment.utils.Resource
 
 class CountryRepository {

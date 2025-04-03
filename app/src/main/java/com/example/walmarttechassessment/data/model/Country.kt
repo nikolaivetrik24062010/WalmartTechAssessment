@@ -1,4 +1,4 @@
-package com.example.walmarttechassessment.data
+package com.example.walmarttechassessment.data.model
 
 data class Country(
     val name: String,
