@@ -46,7 +46,7 @@ This app follows the MVVM architecture and a layered approach:
 Clone the repo and open the project in Android Studio:
 
 ```bash
-git clone https://github.com/<your-github>/walmart-country-viewer.git
+git clone https://github.com/<your-github>/WalmartTechAssessment.git
 ```
 
 ### Dependencies
