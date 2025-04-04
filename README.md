@@ -92,6 +92,10 @@ git clone https://github.com/<your-github>/WalmartTechAssessment.git
 📱 (916) 595-7260  
 🔗 [GitHub](https://github.com/nikolaivetrik24062010)
 
+**Here is the video walkthrough**
+[Video walkthrough](https://www.loom.com/share/9a1b8320a3564f26bde7cb7ada23fc5e?sid=c5820061-576b-4fb1-a628-027a4c26b9ce)
+
+
 ---
 
 ## 📄 License
