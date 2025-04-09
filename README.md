@@ -1,6 +1,6 @@
 # Walmart Android Assessment – Country List Viewer
 
-This is a technical assessment project for the Android Developer position on the Pharmacy Team at Walmart. The goal is to fetch a list of countries from a remote JSON and display them in a scrollable list using clean, testable, and scalable architecture.
+This is a technical assessment project for the Android Developer position at Walmart. The goal is to fetch a list of countries from a remote JSON and display them in a scrollable list using clean, testable, and scalable architecture.
 
 ---
 
@@ -65,10 +65,6 @@ git clone https://github.com/<your-github>/WalmartTechAssessment.git
 
 ---
 
-## 📹 Walkthrough Video (record this and upload to GitHub)
-
-**What to explain in the video (2–4 minutes):**
-
 - Project structure and how the architecture is organized
 - How data is loaded and displayed
 - Error handling (e.g., if no internet)
@@ -91,10 +87,6 @@ git clone https://github.com/<your-github>/WalmartTechAssessment.git
 📧 nikolaivetrikdev@gmail.com  
 📱 (916) 595-7260  
 🔗 [GitHub](https://github.com/nikolaivetrik24062010)
-
-**Here is the video walkthrough**
-[Video walkthrough](https://www.loom.com/share/9a1b8320a3564f26bde7cb7ada23fc5e?sid=c5820061-576b-4fb1-a628-027a4c26b9ce)
-
 
 ---
 
